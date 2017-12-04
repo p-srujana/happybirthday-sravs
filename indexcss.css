@@ -1,0 +1,47 @@
+body, html {
+      height: 100%;
+      margin: 0;
+  }
+
+  .bg {
+      /* The image used */
+      background-image: url("bg3.jpg");
+
+      /* Full height */
+      height: 75%;
+
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  .container
+  {
+    height:100px;
+    width:40%;
+    margin-top: 200px;
+  }
+  p {
+  font-family: 'Signika', sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #C4515C;
+  text-shadow: 2px 2px 2px #FFF;
+   display:none;
+  font-weight: bold;
+ margin-top: 200px;
+ text-align: center;
+ }
+h1
+ {
+   color:#FF0000;
+   top:75px;
+   text-shadow: 0 0 3px #3333CC;
+  text-align: center;
+
+ }
+.item
+{
+	height:250px;
+	width:400px;
+}
